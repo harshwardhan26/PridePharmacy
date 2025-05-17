@@ -21,7 +21,7 @@ Pride Pharmacy is an open-source web project designed to help small, independent
 To run this project locally:
 
 ``bash
-git clone https://github.com/harshwardhan26/pride-pharmacy.git
+git clone https://github.com/harshwardhan26/PridePharmacy.git
 cd pride-pharmacy
 
 Open home.html in your browser to view the site.
